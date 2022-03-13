@@ -1,3 +1,3 @@
 # DivineWarfare
 
-To run this project you need to have an IDE and the source build of UE5 Preview.
+Due to storage limitations I have moved this project here: https://gitlab.com/OliverFeske/divinewarfare
